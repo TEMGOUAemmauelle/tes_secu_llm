@@ -1,0 +1,9 @@
+transformers
+torch
+accelerate
+fastapi
+uvicorn
+requests
+pandas
+numpy
+tqdm
